@@ -14,5 +14,6 @@ public class Main {
         User admin = new Admin(uuid, "Nkululeko", "Tshaka", "nktshjhb025@student.wethinkcode.co.za", "********", Type.Admin);
 
         System.out.println(admin.getUser_id());
+        System.out.println(admin.getEmail());
     }
 }
