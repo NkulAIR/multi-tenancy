@@ -38,7 +38,14 @@ collabspace/
 │   ├── src/main/java/.../
 │   │   ├── config/            # Security & Interceptor configs
 │   │   ├── controllers/       # REST API Endpoints
-│   │   ├── models/            # JPA Entities (User, Organization, Project, Task)
+│   │   ├── models/            # JPA Entities
+│   │   │   ├── User.java
+│   │   │   ├── Organization.java
+│   │   │   ├── Membership.java      #user_id, account_no, role (Type)
+│   │   │   ├── Project.java
+│   │   │   ├── Task.java            
+│   │   │   ├── Type.java            
+│   │   │   └── Status.java    
 │   │   ├── repositories/      # Database Access Layer
 │   │   ├── security/          # JWT Filtering & ThreadLocal Context
 │   │   └── services/          # Business Logic
