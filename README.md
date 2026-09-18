@@ -38,7 +38,7 @@ collabspace/
 │   ├── src/main/java/.../
 │   │   ├── config/            # Security & Interceptor configs
 │   │   ├── controllers/       # REST API Endpoints
-│   │   ├── models/            # JPA Entities
+│   │   ├── model/            # JPA Entities
 │   │   │   ├── User.java
 │   │   │   ├── Organization.java
 │   │   │   ├── Membership.java      #user_id, account_no, role (Type)
