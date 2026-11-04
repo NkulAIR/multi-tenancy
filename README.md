@@ -1,6 +1,3 @@
-Verification Code:
-WTC-46B6RAJE
-
 # CollabSpace: B2B Multi-Tenant Project Management
 
 CollabSpace is a production-grade, multi-tenant Software-as-a-Service (SaaS) application designed to simulate the core infrastructure of enterprise platforms like Jira, Asana, or Linear.
